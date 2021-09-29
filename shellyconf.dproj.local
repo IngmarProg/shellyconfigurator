@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.799,C:\Users\kasutaja\Documents\Embarcadero\Studio\Projects\Project1.dproj=R:\Shelly\shellyconf.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.158,=R:\Shelly\nduWinNT.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.625,C:\Users\kasutaja\Documents\Embarcadero\Studio\Projects\Unit1.pas=R:\Shelly\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.997,=R:\Shelly\nduCType.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.234,=R:\Shelly\nduWlanTypes.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.130,=R:\Shelly\nduWinDot11.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.223,=C:\Users\kasutaja\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.051,=R:\Shelly\nduL2cmn.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.104,=R:\Shelly\nduNtDDNdis.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.024,=R:\Shelly\nduEapTypes.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.207,=R:\Shelly\nduWlanAPI.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.625,C:\Users\kasutaja\Documents\Embarcadero\Studio\Projects\Unit1.dfm=R:\Shelly\Unit1.dfm</Transaction>
+    <Transaction>2021.09.29 11:36:59.131,R:\Shelly\UMainForm.pas=R:\Shelly\unit1.pas</Transaction>
+    <Transaction>2021.09.29 11:36:59.131,R:\Shelly\UMainForm.dfm=R:\Shelly\unit1.dfm</Transaction>
+    <Transaction>2021.09.29 11:40:54.790,=R:\Shelly\ndu\nductype.pas</Transaction>
+    <Transaction>2021.09.29 11:40:54.823,=R:\Shelly\ndu\ndueaptypes.pas</Transaction>
+    <Transaction>2021.09.29 11:40:54.858,=R:\Shelly\ndu\ndul2cmn.pas</Transaction>
+    <Transaction>2021.09.29 11:40:54.928,=R:\Shelly\ndu\nduntddndis.pas</Transaction>
+    <Transaction>2021.09.29 11:40:54.963,=R:\Shelly\ndu\nduwindot11.pas</Transaction>
+    <Transaction>2021.09.29 11:40:54.996,=R:\Shelly\ndu\nduwinnt.pas</Transaction>
+    <Transaction>2021.09.29 11:40:55.048,=R:\Shelly\ndu\nduwlanapi.pas</Transaction>
+    <Transaction>2021.09.29 11:40:55.081,=R:\Shelly\ndu\nduwlantypes.pas</Transaction>
+  </Transactions>
+</BorlandProject>

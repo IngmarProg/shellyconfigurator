@@ -1,0 +1,13 @@
+﻿[mmLog]
+Coordinates=79,10,64,58
+
+[Label1]
+Coordinates=153,10,53,58
+Visible=True
+
+[]
+Coordinates=150,1,91,36
+
+[btnScan]
+Coordinates=10,10,59,58
+
